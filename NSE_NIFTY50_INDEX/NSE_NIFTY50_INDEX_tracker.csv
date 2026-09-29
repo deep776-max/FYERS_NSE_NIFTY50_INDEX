@@ -1,0 +1,2 @@
+run_name,ticker,symbol,rounding_multiple,index_available,futures_available,lowest_strike,highest_strike,timeframes
+NSE_NIFTY50_INDEX_20260929_101712,NIFTY50-INDEX,NIFTY,50,True,True,21050,26000,5S|1|5|60|D
